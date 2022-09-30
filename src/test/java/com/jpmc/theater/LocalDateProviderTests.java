@@ -29,5 +29,4 @@ class LocalDateProviderTests {
 		assertEquals(LocalDateProvider.getInstance().currentDate(), LocalDate.now());
 	}
 
-
 }
