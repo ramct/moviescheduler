@@ -1,9 +1,0 @@
-com\jpmc\theater\Movie.class
-com\jpmc\theater\Theater.class
-com\jpmc\theater\LocalDateProvider$1.class
-com\jpmc\theater\LocalDateProvider$DateHolder.class
-com\jpmc\theater\Showing.class
-com\jpmc\theater\DiscountProvider.class
-com\jpmc\theater\LocalDateProvider.class
-com\jpmc\theater\Reservation.class
-com\jpmc\theater\Customer.class
